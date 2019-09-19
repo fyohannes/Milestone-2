@@ -1,0 +1,13 @@
+---
+title: "milestone 2"
+author: "Feven Yohannes"
+date: "September 18, 2019"
+output: html_document
+---
+
+Feven Yohannes
+
+1.	The first project that I looked at Jefferey Huang’s project “Measuring District Efficiency in CA HS schools”. This project is aimed at analyzing the relationship between spending and performance outcome and looks at different factors,including free/reduced lunch, teacher salaries, and teacher education(etc), that would have an effect on the results. This project shows that spending and performance are not always correlated, as the two graphs that show the top 10 spenders and top 10 highest performance, respectively, do not match up. Thus, this leads the project to conclude that perhaps it’s not about spending, but maybe it’s the ratio of students/administrators. Overall this project was well organized, included clear data, made visualizations that were easy to follow, and was very aesthetically pleasing. I especially liked the first section, which allowed viewers to compare the results of different factors per district, which allows for viewers to start coming up with their own conclusions before all of the data and reasoning is revealed. I think it would have been better if the creator of this project first showed that spending and performance are not correlated, then went on to show the top 10 most efficient schools. Also, I was a bit confused on what method was used to rank the top 10 efficient schools and how different aspects, such as teacher salaries, were factored in. It would have been nice to have a caption that included the method or mathematical equation behind that ranking; however, despite this, this project was incredibly executed. 
+
+2.	The other project, I looked at is Dasha’s Housing Day project, which analyzes how groups form and where they get placed. This project can be considered as one with extensive cleaning,  because the data was not simply gathered from an API, but rather a collection of very specific data. My favorite part is that there are many visuals to answer some of the thematic questions such as “Do Harvard students self-segregate”  or “Where are linking groups placed”. Also I really liked how all of the questions were separated by house and it was very clear to compare and contrast. Furthermore, I liked how statistics such as percentage of international students and legacies were clearly laid out before we saw the bulk of the data. The only con I would say that this project had, was that the “Our Data” tab, was a bit wordy and not as aesthetically pleasing, so it was a bit harder to follow. 
+
